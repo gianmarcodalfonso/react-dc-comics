@@ -2,9 +2,11 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      
-    </div>
+    <footer>
+      <div id="shop-list"></div>
+      <div id="others"></div>
+      <div id="our-links"></div>
+    </footer>
   )
 }
 
